@@ -1,0 +1,36 @@
+ 1)  CC		Coordinating conjunction 
+ 2)  CD		Cardinal number 
+ 3)  DT		Determiner 
+ 4)  EX		Existential there 
+ 5)  FW		Foreign word 
+ 6)  IN		Preposition or subordinating conjunction 
+ 7)  JJ		Adjective 				<--- SI
+ 8)  JJR	Adjective, comparative  		<--- SI
+ 9)  JJS	Adjective, superlative  		<--- SI
+ 10) LS		List item marker 
+ 11) MD 	Modal 
+ 12) NN 	Noun, singular or mass 			<--- SI
+ 13) NNS 	Noun, plural 				<--- SI
+ 14) NNP 	Proper noun, singular   		<--- NO
+ 15) NNPS 	Proper noun, plural 			<--- NO
+ 16) PDT 	Predeterminer 
+ 17) POS 	Possessive ending 
+ 18) PRP 	Personal pronoun 
+ 19) PRP$ 	Possessive pronoun 
+ 20) RB 	Adverb 
+ 21) RBR 	Adverb, comparative 
+ 22) RBS 	Adverb, superlative 
+ 23) RP 	Particle 
+ 24) SYM 	Symbol 
+ 25) TO		to 
+ 26) UH		Interjection 
+ 27) VB 	Verb, base form 			<--- SI 
+ 28) VBD 	Verb, past tense 			<--- SI
+ 29) VBG 	Verb, gerund or present participle  	<--- SI	
+ 30) VBN 	Verb, past participle 		    	<--- SI
+ 31) VBP 	Verb, non3rd person singular present <--- SI
+ 32) VBZ 	Verb, 3rd person singular present 	<--- SI
+ 33) WDT 	Whdeterminer 
+ 34) WP 	Whpronoun 
+ 35) WP$ 	Possessive whpronoun 
+ 36) WRB 	Whadverb 

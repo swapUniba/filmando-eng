@@ -1,0 +1,614 @@
+1;film, set, entirely, bank, robbery, cool, be, take, place
+2;great, piece, history, portray, well
+3;superb, script, describe, problem, not, so, much, racism, take, pretext, discrimination, broad, sense, cultivate, conformist, society
+4;bird, scare, seriously
+5;always, eccentric, intricate, complex, unedited
+6;intelligent, story, bloodshed
+7;apocalypse, now, be, not, comparable, other, film, genre, precisely, apocalypse, now, be, not, only, war, film, rather, here, war, be, use, amplify, feeling, instinct, man
+8;film, be, very, complicated, find, evolution, story, psychological, fantastic, character
+9;first, not, like, film, maybe, be, bit, slow, opinion, end, be, wonderful
+10;bring, whole, new, meaning, word, suspense
+11;center, whole, story, be, play, frightening, talented, best, personification, evil, ever, see, film, gloomy, crazy, same, time, brilliant, smart
+12;result, be, see, relentless, suspense, time, bomb, perfect, mechanism, leave, escape, same, time, film, rely, great, interpretation, be, imbue, symbolism, kind
+13;emotion, experience, suffer, protagonist, live
+14;fact, object, be, link, something, else, creative, way, set, file, intertwine, fantasy
+15;excellent, reflective, idea, thrilling, certain, scene
+16;never, take, grant, start, finish, sublime, end
+17;final, twist, accrue, minute, minute, skilful, script, never, drop, tension
+18;do, not, know, much, malcolm, x, be, great, man, great, politician
+19;always, feel, very, personal, connection, movie, be, announcement, be, reason, start, read, novel
+20;have, see, film, be, deeply, impressed, so, much, have, not, be, able, sleep
+21;have, never, see, engaging, thriller
+22;love, thriller, not, horror, film, be, tension, surprise, end
+23;never, feel, sense, danger, suspense, movie
+24;sincerely, recommend, lover, genre
+25;limit, mention, extraordinary, direction, see, grammar, cinema, start, first, frame, splendid, cross-fade, note, end
+26;story, be, lavish, detail, thrilling, twist
+27;intense, engaging, plot, not, be, distract, have, be, careful
+28;intense, engaging, plot, not, be, distract, have, be, careful
+29;intense, engaging, plot, not, be, distract, have, be, careful
+30;intense, film, pull, extraordinary, plot
+31;investigator, meet, trail, british, officer, criminal, detective
+32;currently, represent, best, science, fiction, film, ever, create
+33;be, hymn, perfection, story, criminal, genius, fear, manipulation
+34;be, very, beautiful, film, not, easy, understand, require, very, careful, vision, patient, be, better, see, more, once, be, able, understand, judge
+35;be, very, beautiful, film, not, easy, understand, require, very, careful, vision, patient, be, better, see, more, once, be, able, understand, judge
+36;be, very, beautiful, film, not, easy, understand, require, very, careful, vision, patient, be, better, see, more, once, be, able, understand, judge
+37;be, no, longer, unbridled, race, protagonist, escape, nightmare, ripper, know, brilliant, intertwining, clue, hypothesis, bind, history, best, thriller
+38;truly, be, absorb, well, make, movie
+39;be, unpredictable, exciting
+40;be, really, difficult, film, plot, explain, little
+41;be, not, university, math, lesson, take, explore, boundary, unknown, be, not, only, cosmic, space, also, theorem
+42;be, so, complex, not, watch, only, once
+43;already, accustom, challenge, risky, fascinating, such, celebration, era, turmoil, gang, name, destine, become, legendary, raging, bull, do, not, hold, back, give, intriguing, sophisticated, film
+44;best, film, so, far, stellar, cast, unpredictable, compelling, plot, film, be, first, have, intertwine, story, even, take, inspiration, obviously, style, be, first, revolutionize, way, shoot, tell, movie
+45;minute, so, segment, exemplify, quiet, brilliance, completely, innovative, style, replicate, confusing, sequence, view, perspective, main, character
+46;teen, audience, refine, sublime, cast, touching, sexy
+47;now, be, nothing, more, say, masterpiece, horror, cinema
+48;best, film, have, see, past, year, profound, little, brainy, award
+49;highest, example, author, noir, history, cinema, epochal, nicholson, say, least, iron, screenplay, let, not, forget, most, beautiful, orchestral, score, time, sign, jerry, goldsmith, here, maximum
+50;outstanding, film, deal, delicate, topic
+51;perfect, mechanism, suspense, humor, extraordinary, actor
+52;really, exciting, really, original, plot, begin, do, not, catch, later, somewhat, slow, rhythm, not, get, away, screen
+53;recommend, everyone, mature
+54;simply, film, ordinary, not, usual, entertainment, journey, hour, mouth, open
+55;stellar, cast, therefore, excellent, act, say, be, artist, camera, work, be, masterpiece, masterpiece, be, not, understand, meaning, beware, very, few, speak, badly, film, watch, cost
+56;still, today, almost, year, later, find, supreme, masterpiece, history, cinema
+57;dream, tell, country
+58;coyote, scene, street, be, sensational, make, think
+59;dialogue, be, very, complex, characterize, character, own, mentality
+60;director, have, take, care, single, detail, many, only, be, focus, end, film, solution, be, there, front, eye, perhaps, more, imagine
+61;extraordinary, drop, role, experienced, detective-negotiator, drag, viewer, mysterious, puzzle, game, dictate, excellent, clockwork, script, give, result, only, end, film
+62;fact, more, look, more, perceive, quality, also, technical, script, music, photography
+63;film, hit, terribly, more, raw, power, dialogue, image, see, go, feeling, have, understand, something
+64;film, be, fact, weave, entirely, obsessive, dialogue, garage, beautiful, company
+65;film, be, very, slow, be, never, boring
+66;film, better, worse, be, companion, life
+67;intense, close-up, protagonist, be, beautiful, allegory, flight, represent, pigeon, dance, same, line, wise, shot, long, shot, sound, other, montage, metaphor, cage, indicate, impossibility, really, take, free, oneself, constraint, pointed, gate, indicate, obstacle, drama, problem, be, overcome, difficulty
+68;movie, have, get, be, funniest, smartest, satyre, be, produce, last, year
+69;only, drawback, maybe, plot, little, intricate, mean, little, too, hide
+70;plot, distract, person, watch, film, then, catch, surprise, end, unexpected, be, exciting
+71;plot, be, complicate, compelling, traditional, build, big, yellow
+72;plot, be, superb, end, be, great, be, rare, film, do, not, have, be, distract, even, second, otherwise, lose, precious, clue, solution, yellow, end, surprise, leave, literally, speechless
+73;plot, be, superb, end, be, great, be, rare, film, do, not, have, be, distract, even, second, otherwise, lose, precious, clue, solution, yellow, end, surprise, leave, literally, speechless
+74;sense, film, be, freely, interpret, wise, old, man, say, more, man, more, want, have, eliminate, hand
+75;splatter, piece, be, see, film, fact, be, heavy, however, least, put, little, adrenaline
+76;story, be, unique, weave, trilogy, be, incredible
+77;twist, plot, character, comb, make, unique, viewing, experience
+78;uniqueness, story, come, setting, be, breathtaking, realistic
+79;viewer, be, constantly, stimulate, reflect, plot, intrigue, make, plot, film
+80;viewer, manage, fully, immerse, spirit, film, character, manage, share, fear, anguish, unknown, destiny
+81;visual, spectacle, then, make, memorable, sequence, such, support, wagner, helicopter, orchestra, performance, bunny, stage, ad, vietnamese, jungle, authentic, metaphor
+82;visual, spectacle, then, make, memorable, sequence, such, support, wagner, helicopter, orchestra, performance, bunny, stage, ad, vietnamese, jungle, authentic, metaphor
+83;be, superb, visual, symbol, illusion, other, film, fascinating, be, almost, alienatingly, ostentatious
+84;be, not, moment, respite, spectator, start, finish, thanks, truly, disturbing, music
+85;film, be, continuous, repetition, life, metaphor
+86;film, be, continuous, repetition, life, metaphor
+87;film, be, beautiful, even, little, hard
+88;film, be, vietnam, addition, perfect, historical, reconstruction, manage, recreate, atmosphere, slight, tension, horror, be, establish, film, boat, go, river, represent, tormented, difficult, life, willard, end, truly, understand, human, nutara, conscience, front, character, so, deep, complicated, kurtz, open, show, man, really, be, perhaps, be, precisely, reason, film, terribly, deep, have, strike, shake, mind, psyche, people, manage, see, really
+89;film, taste, reach, pinnacle, good, film, do, touch, heart
+90;tire, review, serve, understand, deeply
+91;truly, film, leave, speechless, capable, charge, anxiety, incredible, way, involve, few, other
+92;very, beautiful, intelligent, film, rhythm, narration, be, appropriate, theme, tell, exquisitely, real, wrap, tone, greek, tragedy, reinterpret, good, woody, allen, evidently, quote, run, film, be, absolutely, special, typical, director, character, sound, metaphor, great, opera, aria
+93;very, profound, be, also, figure, spokesman, truly, christian, close, needy, oppose, hypocritical, formal, church, other, priest
+94;wake, up, film, be, gift, people, see, surface, do
+95;know, story, be, compelling, terrifying, real
+96;attention, detail, scene, make, image, scene, real, find, old, war
+97;do, not, have, hate, film, address, only, external, appearance, case, unprecedented, violence, love, try, grasp, deep, meaning, plot
+98;milestone, pearl, few, understand, imbue, deep, meaning, life, love
+99;nice, engaging, film, blood, superhero, very, cerebral, tender, love, story, master
+100;whisper, emotion, uncertain, fear, 30-year-old, have, never, stop, dream, believe, crazy, night, viennese, road, crown, even, brief, moment, perhaps, most, beautiful, love, story
+101;think, film, be, authentic, masterpiece, really, exciting, more, psychological, first, part
+102;be, long, time, movie, do, not, excite, so, agree, say, have, connect, brain, well, love, real, cinema
+103;maybe, little, slow, section, maybe, be, positive, note, allow, better, enjoy, emotion, film, exude
+104;never, see, film, so, full, emotion
+105;poignant, film, leave, speechless, leave, something, inside, make, think, serious, matter, interpretation, very, good, actor, really, great, movie
+106;more, do, want
+107;hour, real, fun, also, bit, suspense, film, be, clearly, science, fiction, very, american, be, great, thing
+108;crazy, ingenious, film, start, finish, watch, several, time, love
+109;neorealist, film, reveal, attempt, discover, sense, life, go, surface, appearance, stereotype
+110;well-structured, detective, story, enjoy, good, rhythm, well-characterized, character
+111;brilliant, film, be, spectacularly, exciting, breathtaking
+112;have, see, several, time, understand, well, like, lot
+113;leave, deep, message, give, strong, morale
+114;knot, throat, remain, unquestionably, doubt, brilliant, theatrical, film
+115;really, nice, beautiful, morality, never, rhetoric, spur, intelligent, reflection
+116;full, twist, turn, leave, speechless, several, time
+117;seemingly, incomprehensible, incredibly, profound, action
+118;murky, luxuriant, atmosphere, catch, viewer, attention
+119;suspense, be, perfect, gigantic, hotel, lose, mountain, top, compose, family
+120;film, be, absolute, masterpiece, war, film, mark, time
+121;film, leave, breathless, deserve, top, mark
+122;full, anguish, moment, silence, allow, hear, main, character, hear, help, soundtrack, even, hear, hear, mind, pretend, play, piano, so, not, make, noise
+123;minute-by-minute, movie, take, excite
+124;journey, rediscover, much, famous, war, be, huge, mistake
+125;be, nothing, more, journey, purification, redemption, make, choose, human, madness, metaphorically, represent, leave, convinced, basic, ideal, such, respect, homeland, rightness, war, go, river, be, increasingly, question, get, destination, no, longer, feel, confident, be, right, wrong
+126;beautifully, terrible, film, have, see, least, time, have, always, fascinate, incredible, complexity, depth
+127;dark, attention, existential, aspect, death, case, understand, end, beginning
+128;definitely, original, adrenalinic, year, be, shoot
+129;destiny, randomness, choice, shades, life, acceptance, death, film, speak
+130;personally, like, very, much, atmosphere, be, breathe, industrial, revolution, particular, seemingly, gloomy, foggy, melancholic, air, be, well, represent
+131;seem, long, boring, sometimes, hallucinate, thing, annoy, want, entertainment
+132;little, be, little, gem, road, movie, more, recent, sideways, focus, travel, metaphor, change, suffer, disappointment, also, purification, inevitable, growth
+133;man, shoot, perfect, perhaps, reductive, nocturnal, action, thanks, high, definition, digital, camera
+134;overall, film, be, very, heavy, give, deal, self-destruction, violent, man, everyone, man, use, ring, self, punish, be, intense, profound, scene, be, shoot, mastery, interpret, perfectly
+135;suspense, fear, highest, level, duration, film, story, tell, flawlessly
+136;continuous, shot, crucifix, be, impressive, effect, allegory, path, redemption, lead, real, spiritual, rebirth
+137;crudeness, scene, fear, palpable, anxiety, be, discover, protagonist, beauty, shot, characterization, character, make, opinion, film, true, masterpiece, beautiful
+138;film, be, perfect, sociological, portrait, californian, white, ghetto, today
+139;beautiful, film, keep, glue, armchair
+140;comedy, perhaps, unpretentious
+141;film, combine, comedy, drama, superficiality, passion, be, bigger
+142;film, convey, emotion, thrilling, start, finish
+143;film, fascinate, lover, martial, art
+144;film, kidnap, immediately, very, clear
+145;do, not, bear, completely, maybe, little, end
+146;engage, storyline, gorgeous, end
+147;more, hour, never, distract, keep, eye, glue, screen, little, fear
+148;great, location, beautiful, bond-girl
+149;great, movie, keep, glue, end, shot, excellently, thrilling, fly
+150;direction, spike, lee, simple, compelling, plot, duration, film
+151;be, independent, bizarre, subtle, humor, right, point
+152;only, believe, predictable, plot, take, talent, too, have, manage, show, simple, plot, interesting, spectacular, way
+153;love, thriller, especially, love, film, full, clue, mystery, induce, viewer, identify, reason, be, film
+154;watch, first, hour, then, no, longer, detach, tv, screen, end
+155;end, remain, hand, be, air, bubble
+156;be, film, perfectly, represent, era
+157;be, film, simple, plot, not, be, underestimate
+158;be, film, simple, plot, not, be, underestimate
+159;be, film, simple, plot, not, be, underestimate
+160;be, not, always, clear, smooth, performance, however, general, be, enjoyable
+161;be, suspenseful, nail, biter, sure
+162;have, see, film, time, be, make, discover, favorite, actor, favorite, director, story, be, well, articulated, do, not, bear, even, place, be, more, boring
+163;many, do, not, appreciate, static, nature, work, opinion, be, strong, point
+164;more, hour, great, pace, dead, spot
+165;mythical, film, far, best, ever, simple, non-trivial, plot, manage, bring, exaggerated, intertwine, film, unique, hilarious, dialogue
+166;shoot, very, particular, style, obviously, very, comic
+167;simple, easy, understand, film, smooth, texture
+168;simple, easy, understand, film, smooth, texture
+169;simple, easy, understand, film, smooth, texture
+170;simple, deep, plot, superb, scenery, photography, magical, atmosphere
+171;simple, story, well, build, exceed, triviality, have, make, everything, more, dispersive
+172;simple, storyline, know, be, intriguing, bring, viewer, myriad, sensation, revenge, compassion
+173;still, film, be, alternately, suspenseful, meticulous, most, right, place, be, therefore, valuable, movie, historical, record
+174;surely, plot, be, not, thing, be, take, account, evaluate, film
+175;actor, perfectly, enter, role, give, fluidity, film, make, plot, simple, light, understand
+176;actor, perfectly, enter, role, give, fluidity, film, make, plot, simple, light, understand
+177;background, story, be, always, same, end, be, really, obvious, be, still, very, pleasant, especially, thanks, presence, always, legendary
+178;background, story, be, always, same, end, be, really, obvious, be, still, very, pleasant, especially, thanks, presence, always, legendary
+179;film, be, wondrous, spectacle, animation, well
+180;plot, be, compelling, excellent, actor, applause, soundtrack, surely, have, give, more, consideration, oscar
+181;like, dry, short, yet, precise, dialogue, erotic, alchemy
+182;movie, be, funny, graphically, stunning, full, adventure, bellyache, laugh
+183;hour, pass, fly, away, quickly, succession, suspense, emotion
+184;very, nice, film, usual, period, great, interpretation, super, paranoid
+185;very, often, film, genre, revolve, simple, story, be, be, build, be, passionate
+186;very, simple, intuitive, plot, absolutely, fun
+187;film, base, ancient, feeling, wrap, modern, container, suitable, everyone
+188;see, film, come, see, again, see, again, do, not, know, many, time, time, excite, move, upset
+189;many, say, story, be, banal, simple, simplest, thing, be, one, most, excite, right
+190;see, cinema, 20th, time, total, time, have, fly, take, eye, screen, short, never, get, bored, tear, always, fall
+191;leave, cinema, really, happy, have, spend, money, well, surely, be, film, worth, watch, suitable, whole, family, simple, ingenious, plot
+192;maybe, be, little, too, obvious, understand, be, bad, guy, be, still, film, youngest, forgive
+193;simple, perhaps, obvious, story, logical, path, plot, masterpiece, be, build, not, only, animation, technique
+194;film, suspense, action, drama, let, be, look, very, well
+195;science, fiction, precursor, masterpiece, unmatched, follower
+196;absolutely, best, science, fiction, movie, have, ever, see
+197;story, be, engage, capture, vortex, do, not, want, leave
+198;not, be, miss, bubbly, full, original, idea, simple, plot, not, reason, trivial, obvious
+199;hilarious, gag, film, flow, well, last, bar
+200;film, begin, define, not, only, superhero, also, psychology, same
+201;irony, action, never, end, vortex, never, tire
+202;first, part, film, be, very, beautiful, second, part, feel, be, film, protagonist, terminator, rambo, suppose, recorder, shoot, purpose, not, bear, audience
+203;film, be, brilliant, sense, never, get, bore, be, really, fun
+204;be, greatness, film, represent, life, dream, utopia, youth, grass
+205;be, not, yet, bear, recommend, see, back, hour, entertainment, pass, boredom
+206;captivating, action, movie, many, memorable, sequence, line
+207;laughter, be, expect, few, more, still, fun
+208;beautiful, comic, grotesque, film, way
+209;great, rock, fast, fun, movie
+210;say, film, be, really, lot, fun, course, give, anything, new, always, manage, keep, glue, screen, understand, end, also, also, be, give, credit, never, be, vulgar, be, already, great, result
+211;be, fair, horror, very, realistic, violence, scene, film, be, miss, something
+212;be, psychological, thriller, therefore, absurd, complain, slowness, scene
+213;beautiful, film, wonderful, love, story, frame, amazing, soundtrack
+214;beautiful, story, be, background, love, group, people, feed, superficiality, malice, world, have, manage, do, need, too
+215;dramatic, exciting, film, perhaps, most, beautiful, whole, cinema
+216;film, let, dream, same, time, very, realistic
+217;little, uncertain, end, dawn, uncertain, romantic
+218;monument, great, cinema, emotional, intensity, punch, stomach, only, film, make, move, knock, year
+219;conversation, real, intimate
+220;most, beautiful, film, have, see, not, usual, love, story
+221;extraordinary, silent, performance, emotionally, captivate, grow, physically, more, gaunt
+222;overflow, pure, simple, feeling, value
+223;beautiful, beautiful, be, think, be, come, dream
+224;like, end, love, be, not, only, prerogative, beautiful, fairy, tale, happy, end, film, general, normal, people, be, real, life
+225;film, addition, great, love, story, also, embrace, most, dramatic, historical, event, sinking, thus, enclose, film, mix, unique, sensation, feeling
+226;exciting, deep, wonderful, image, scene, thrilling, soundtrack
+227;exciting, deep, wonderful, image, scene, thrilling, soundtrack
+228;first, time, woman, do, not, have, choose, man, man, passion
+229;find, wonderfully, exciting, love, story, make, shiver
+230;have, chill, duration, film, be, very, move, end
+231;have, see, twice, first, think, be, most, beautiful, film, have, ever, see, second, think, call, film, be, understatement, be, work, art, give, very, strong, emotion
+232;highly, recommend, everyone, watch, movie, be, enchant, fall, love, story
+233;immediately, fall, love, film, be, film, finish, see, sensation, send, do, not, abandon
+234;be, beautiful, film, script, be, excellent, music, be, exceptional, actor, be, fantastic, not, mention, story, boy, be, really, very, beautiful, even, end, be, bit, sad
+235;be, film, old, world, teach, loving, be, love, be, first, thing, life
+236;be, story, want, make, clear, love, do, not, look, social, class, overcome, obstacle
+237;be, very, beautiful, sentimental, comedy, play, role, incurable, romantic
+238;be, very, beautiful, sentimental, comedy, play, role, incurable, romantic
+239;be, very, beautiful, sentimental, comedy, play, role, incurable, romantic
+240;be, also, wonderful, story, courage, adventure, love, eventually, triumph, even, not, someone, expect
+241;be, few, film, really, talk, love, be, trivial
+242;look, emotion, stuff, closet, achievement, spite, own, resistance, move, forward, life
+243;strike, heart, charge, sweetness, passion, love, true, love, love, last, life, overcome, obstacle
+244;be, definitely, favorite, movie, recommend, dreamer
+245;be, perfect, part, normal, girl, love, not, beautiful, heart, swollen, feeling
+246;overall, movie, be, very, powerful
+247;be, exactly, pathos, be, discard, love, come, picture
+248;final, part, be, beautiful, main, character, speak, wife, prefer, redo, new, life, own, rather, be, help, newcomer, conquistador
+249;soundtrack, be, incredible, watch, film, then, listen, piece, call, theme, impossible, not, be, move
+250;story, be, perfectly, select, make, film, not, only, biography, even, more, fairy, tale, everything, have, not, really, happen, probably, historical, period, live, nothing, have, be, possible
+251;usual, time, analyze, couple, relationship, essential, flowing, way, time, very, sweet
+252;be, word, great, highlight, possible, love, nobility, third, class, not, only, do, make, understand, nothing, love, make, understand, background, historical
+253;exciting, film, see, year, absolutely, do, not, cease, please, amaze
+254;film, continue, excite, most, romantic, passionate, sentimental, genre, make, people, dream, be, propose, film, day
+255;film, continue, excite, most, romantic, passionate, sentimental, genre, make, people, dream, be, propose, film, day
+256;film, be, beautiful, be, highly, evocative, move
+257;see, live, eric, be, hell, then, reach, darkness, save, love, be, true, love, nothing, separate, people, make, be, together, also, sometimes, love, be, more, powerful, evil, so, leave, even, astonish, astonish, remain, understand, obscene, good, be
+258;be, fusion, modernity, ancient, feeling, particular, fresh, clean, love, story, here, be, great, success
+259;wonderful, love, story, young, people, amazing, relationship, disruptive, story, film, deserve, enter, great, masterpiece, time
+260;imaginary, love, candid, woman, real, prostitute
+261;hymn, life, fantasy, love, dream, dream, make, reality, more, interesting
+262;mixture, sentimental, comedy, action, film, splendid, interpretation, protagonist
+263;age, be, better, many, film, ironic, romantic, way, dramatic, happy, ending
+264;opinion, be, best, time, plot, irreverent, ironic, same, time, romantic, sweet, good, fairy, tale, require
+265;most, beautiful, cartoon, history, cinema, exciting, oscar, soundtrack, not, be, miss
+266;very, very, beautiful, really, interesting, vision, peter, pan, not, mere, hero, fairy, tale, real, child, feeling
+267;however, strange, life, be, not, stand, other, then, unite, danger, discover, very, strong, mutual, feeling
+268;love, instinct, have, win, save, unaware, fruit, pain
+269;chemistry, bring, moment, truth, make, seem, so, real
+270;be, message, touching, profound, beautiful, movie
+271;opinion, most, beautiful, film, have, ever, see, exciting, sublime, manage, touch, human, heart, incredible, way, short, complete, film
+272;be, engaging, film, call, russian, go, wind
+273;most, romantic, hear, film, have, ever, see
+274;film, be, fantastic, want, make, clear, viewer, love, be, important, not, live
+275;unreachable, superlative, hymn, courage, love, life
+276;agreement, absolute, violence, burning, passion, hold, heart, protagonist, contribute, create, opaque, background, true, love
+277;sing, feel, die, be, reborn, form, floor, dance
+278;deliver, charm, wit, rage, depression, sensuality, hysteria, apathy
+279;believe, be, truly, extraordinary, film, element, such, love, hate, same, time, also, violence, be, blended, perfectly
+280;short, rather, particular, story, make, think, emotion, direction, act, be, excellent, girl, be, love, tender, be, very, good, absolutely, recommend, see
+281;really, move, end, character, be, symbol, human, baseness, terrible, appearance, craving, greed, riches
+282;superlative, interpretation, main, character, also, minor, character, suggestive, reconstruction, custom, ancient, samurai, touch, scene, final, battle
+283;feeling, be, delicious, scratchy, sweet, sour, taste
+284;explain, absolute, simplicity, feeling, bind, protagonist, love, be, defend, violence
+285;be, romantic, story, romantic, view, world, time, world, be, face, true, hour, darkness
+286;just, little, sugar, pill, go, down, historical, phrase, do, not, know, be, song, sing, favorite, character, child
+287;film, make, dream, open, mind
+288;fun, movie, kid, age
+289;masterpiece, excellent, cartoon, splendid, color, design, dumbo, tenderness
+290;new, cartoon, have, arrive, true, sparkling, crackling
+291;positive, point, be, good, feeling, be, show, film
+292;story, bravery, romance, endurance, human, spirit
+293;surreal, trip, leave, dumbfounded, end
+294;be, need, be, contain, animated, film, humble, opinion, blow, away, too, many, compliment
+295;unusual, fantastic, action, film, part, teen-movie, series, enjoyable, reflect, today, teenager
+296;fairy, tale, have, beautiful, plot, recommend, see, not, only, child, like, very, much, think, like, too
+297;deserve, best, music, wonderful, animation, characterize, numerous, reference, other, story, character, world, fairy, tale, child, fiction
+298;do, communication, speech, leave, unnecessary, act, violence
+299;always, love, story, be, kid, dad, ask, cassette, want, see, always, answer, same, thing
+300;be, year, old, have, be, watch, mother, come, video, cassette, always, make, laugh
+301;be, happy, have, see, be, beautiful, fairy, tale, recommend, see, especially, little, one
+302;feel, allot, present, day, film, dont, have, kind, magic, make, jump, screen
+303;never, think, see, film, so, many, time, best, thing, be, continue, see, again, company, daughter, finally, dance, note, final, soundtrack
+304;see, grandparent, house, whole, family
+305;view, film, be, truly, amazing, fairy, tale, character, be, funny, funny
+306;come, be, child, find, wonderful, go, see, child, be, small, too, be, fascinate
+307;be, simply, delicious, movie
+308;be, true, be, sugary, be, beautiful, reason
+309;have, always, be, loyal, fan, definitely, favorite, superhero
+310;little, gem, fantastic, cinema
+311;never, see, beautiful, animated, film
+312;recommend, child, age, do, not, miss
+313;be, best, animated, movie, have, ever, see
+314;be, best, animated, film, time, snow, white, dwarf, be, strong, animation, be, best, be, make, digital, film, character, seem, real
+315;advice, be, certainly, propose, child, propose, adult, fully, understand, value, meaning, moderation, past
+316;animation, movie, be, most, breathtaking, ever, see, animated, movie, leaf, crack, road, nail, pebble, dirt, be, animated, superb, style, grace
+317;casting, be, phenomenal, writing, be, hysterical, animation, be, top, notch
+318;film, be, extraordinary, fantasy, film, opinion, be, most, beautiful
+319;first, real, film, make, entirely, thanks, help, computer, graphic, be, authentic, explosion, genius, imagination
+320;picture, look, amazing, color, contrast, be, just, beautiful
+321;be, not, much, say, extraordinary, animated, film, be, immortal, masterpiece
+322;adaptation, fairy, tale, be, really, perfect, film, be, wonderful, final, beautiful, ship, story, be, faithful, not, more, beautiful, see, doubt
+323;film, be, fairy, tale, sens, pleasant, sociable, enchanting, be, watch, family, young, old
+324;film, be, adaptation, famous, fairy, tale, have, be, able, keep, child, eye, glue, screen, very, educational
+325;film, be, essentially, fairy, tale, aim, child, fit, perfectly, family, evening
+326;be, witty, sharp, romantic, goofy
+327;movie, be, amazing, be, first, see, think, be, great, anyone, not, just, kid
+328;remember, much, easier, thing, really, be, be, child
+329;return, kindergarten, day, see, disney, peter, pan, box
+330;wonderful, film, young, old, best, have, ever, see
+331;be, even, more, film, never, forget, show, child
+332;scene, familiar, interior, be, be, enjoy, so, true, act, dialogue, seem, find
+333;see, movie, have, watch, eye, child, then, truly, understand
+334;masterpiece, science, fiction, cinema, be, action, special, effect, plot, feeling, spirit, sacrifice
+335;unique, film, unpredictable, adult, child, see, doubt
+336;fantastic, always, nice, character, very, successful, gag, spectacular, graphic
+337;have, word, animated, film, be, nothing, short, gorgeous, graphically, perfect, tender, comical, spectacular, anyone, have, not, see, run, rent
+338;love, child, like, even, now, be, really, suitable, everyone, sweet, peaceful, even, educational, film
+339;chaos, film, superhero, like, i, continue, consider, film, cornerstone, genre
+340;be, beautiful, fun, film, age
+341;be, nothing, short, gorgeous, graphically, perfect, tender, comical
+342;be, amazing, do, animation, story, line, be, enjoyable, even, adult
+343;spider-man, be, not, superhero, many, other, live, imaginary, universe, be, superhero, everyone, like, young, old, comic, non-comic, reader
+344;simple, film, same, time, such, magical, atmosphere
+345;basis, be, feeling, true, friendship
+346;comedy, fun, contain, memorable, film, bring, excitement, whole, family
+347;feature, film, therefore, present, multiple, level, interpretation, make, truly, everyone, film
+348;beautiful, fairy, tale, therefore, audience, age
+349;cartoon, fantasy, reality
+350;animated, film, full, feeling, poetic, simple, ideal, reflection
+351;beautiful, set, history, special, effect
+352;film, be, pure, poetry, eye, soul
+353;hope, more, people, take, advantage, magic
+354;see, first, time, be, child, be, maybe, year, old, be, film, mark, soul, forever
+355;see, be, year, old, immediately, fall, love
+356;think, be, funniest, cartoon, recent, time, together, find, nemo
+357;think, be, most, beautiful, film, have, ever, see, love, child, like, even, now, be, really, suitable, everyone, sweet, peaceful, even, educational, film
+358;opinion, even, year, such, high, peak, inspiration, do, not, reach
+359;be, absolutely, favorite, cartoon
+360;be, greatest, animated, film, recent, time
+361;be, wonderful, do, well, fun, short, be, little, say, be, best, animated, film, have, ever, see
+362;original, story, funny, never, vulgar, humor, excellent, actor
+363;film, be, protagonist, childhood
+364;translate, title, typical, american, comedy, family
+365;play, lawyer, sound, principle, sense, justice
+366;year, have, pass, intense, emotion, have, remain, unchanged
+367;great, exercise, style, do, not, allow, specific, framework
+368;truly, original, touching, simple, realistic, film
+369;time, leave, feeling, not, describe, word
+370;always, plot, be, well, articulate, make, even, more, enjoyable, unusual, linearity, director
+371;beautiful, dialogue, breathtaking, special, effect, unmissable, music
+372;feeling, perfect, cleanliness, image, narration, remain, clear
+373;do, want, know, happen, finish, see, movie, friend, house, well, look, around, astonishment, say, word
+374;epic, scene, have, be, year, now
+375;excellently, play, perfect, costume, setting, not, mention, music, never, bore, also, recommend, detest, classical, music, be, fun, film, build, new, mozart, figure
+376;age, moment, life
+377;great, film, deep, refine, style, raw, realistic, image, absolutely, masterpiece
+378;do, not, think, be, person, planet, do, not, like, movie
+379;see, chance, brother
+380;genre, then, be, absolutely, unmissable, vice, versa, easily, do
+381;have, never, see, see, movie, masterpiece, be, part, colossal, film, series, not, say, have, not, see, anthony, hopkin, be, extraordinary, always, jodie, foster, be, very, good, else, say, see
+382;film, participate, fight, suffer, eventually, triumph
+383;delve, deeply, soul, alleged, superhero, truly, know, show, humanity
+384;be, nice, adolescence, be, not, be, always, easy, judge
+385;be, too, funny, be, perfect, hope, future, devote, more, often, film, genre
+386;maybe, be, true, be, bit, surreal, find, move, full, mean
+387;simply, beautiful, great, kolossal, big, favorite, director, usual
+388;something, make, reflect, really, be
+389;sometimes, forget, beauty, be, gift, life
+390;figure, joker, be, absolutely, amazing, scene, explosion, hospital, be, very, cool
+391;interpretation, be, extraordinary, make, taste, true, friendship, be, bear
+392;film, be, exhilarating, engaging, adrenaline
+393;be, really, fun, movie
+394;be, really, fun, movie
+395;flash, humor, far, be, concerned
+396;film, take, drag, gripping, plot
+397;persian, creature, be, imaginative, film, give, teaching, misunderstand, freedom
+398;film, be, also, work, manly, friendship, authentic, film, border, good, bad
+399;whole, film, be, number, high, illusionism
+400;film, be, classic, fantastic, fully, tune, spaghetti, western, philosophy
+401;film, be, beautiful, convincing, verisimilitude, touch, comic
+402;be, real, cure, today, still, make, difference, color
+403;film, friendship, hope, beautiful, incredibly, bad, thing, life
+404;really, exciting, fantastic, film, die, laughing, more, amazingly, design
+405;very, nice, film, immediately, love
+406;beautifully, comic, film, adorable, start, finish
+407;time, see, movie, do, not, stop, laugh
+408;enter, skeptical, room, time, case, accept, friend, see, dark, say, now, have, already, see, time, love
+409;be, look, film, touch, soul, have, find
+410;be, original, deviate, usual, fairy, tale, moral, intent, only, purpose, be, absolutely, have, fun
+411;most, beautiful, film, have, ever, see, never, get, tire, watch, time, make, laugh, more, first
+412;story, be, base, character, opinion, be, adorable
+413;battle, escape, different, technology, determine, make, planet, own
+414;think, be, best, villain, ever, only, other, antagonist, beat, term, fame, be, do, not, think, other, villain, enter, collective, imagination
+415;be, few, film, deliver, same, chill, feeling, eminent, dread, shine, manage, bestow, viewer, time, be, watch
+416;film, full, action, very, fun, watch
+417;masterpiece, comic, cinema, father, comedy
+418;nice, trip, nice, end, put, good, mood
+419;real, joy, eye, ear
+420;beautiful, film, find, tv, i, watch, pleasure
+421;character, inspire, tenderness, friendship, be, perhaps, most, touching, element, plot
+422;time, see, again, find, something, else, laugh, about
+423;absolutely, recommend, spend, hour, relax, listen, exciting, melody
+424;rest, nothing, be, miss, grotesque, situation, colorful, spot-on, cast, twist, bio-mechanical, mechanism, sinister, joke, nature, find, genius
+425;good, rhythm, exciting, story, tension, shot, almost, make, breathless
+426;great, cast, great, direction, great, setting, extraordinary, soundtrack
+427;great, soundtrack, memorable, character, provide, excellent, story, be, violent, entertaining
+428;guy, be, masterpiece, have, see, least, time, time, donkey, make, die, laughter
+429;really, recommend, everyone, really, nice, movie, never, get, boring
+430;see, first, time, year, old, compelling, storyline, really, catch
+431;think, be, funniest, movie, have, ever, see
+432;opinion, be, intriguing, fascinating, spectacular
+433;be, spectacular, film, beautiful, duel, soundtrack, actor, screenplay
+434;be, cool, pure, fun, lot, action
+435;be, constant, laugh, very, funny, recommend, understand, minimum, cinema
+436;be, be, long, time, watch, movie, so, beautiful
+437;have, see, dozen, time, time, be, always, emotion, enjoy, spectacular, film
+438;magnificent, film, impeccable, direction, exceptional, soundtrack, dream, photography
+439;mock, ruthless, ironic, very, very, pulp
+440;most, fascinating, magnetic, film, have, ever, see
+441;pulp, fiction, be, vital, energetic, unique, know, borrow, lot, idea, so, do, everyone, argue, anyone, say, usage, be, not, original, unflinching, film
+442;recommend, love, crazy, comedian
+443;see, several, time, everything, be, beautiful, story, picture, music, everything, perfect
+444;authentic, pearl, crazy, kind, let, put, time, capsule, give, future, generation
+445;context, image, character, be, just, fantastic
+446;dark, be, really, beautiful, be, perfection, masterpiece, get, very, close
+447;dialogue, be, witty, interesting
+448;final, scene, be, rebirth, time, see, get, chill
+449;gag, hit, man, be, great, policewoman, be, brilliant, rattle, little, drug, addict
+450;plot, be, nice, not, very, deep
+451;be, word, film, be, fascinating, sumptuously, splendid
+452;beautiful, film, allow, viewer, relive, completely, atmosphere, medieval
+453;film, impress, have, admit
+454;film, be, craziest, thing, change, life
+455;movie, actually, provide, good, example, unconditional, positive, regard, therapist
+456;unforgettable, beautiful, song, film, time, go
+457;be, golden, year, director, film, be, sunny, ironic, sentimental, direct, danceable, opera
+458;come, fiction, be, little, say, be, face, masterpiece, have, change, way, make, cinema, opinion, be, part, film, be, see, cost, least, once, lifetime, review, many, time, want
+459;amazing, fascinating, upset, special, sound, effect, use, king
+460;be, film, transmit, image, move
+461;heart, give, certainty, be, better
+462;flash, humor, brilliant
+463;little, be, truly, tender, infinite, goodness
+464;great, life, lesson, now, then, be, capable, offer, truly, serious, cinema
+465;play, be, too, sympathetic, infectious, laugh
+466;film, make, think, have, see, appreciate, life, freedom
+467;film, testify, far, man, cruelty, go
+468;raw, look, rapid, descent, drug, addiction, seedy, life, inspire
+469;rawness, realism, never, show
+470;spy, film, classic, dark, sinister, reconstruction, transfigure, elegant, black, white
+471;be, not, war, film, be, not, film, bomb, be, fire, drop, horde, army, collide
+472;time, move, bitter, ending, death, film, be, still, quintessence, cinema, beautiful, photograph, also, sort, moral, \, redemption, pervade, character, protagonist, think, american, society, pre-60-80, period
+473;film, have, manage, give, something, other, film, have, give, anguish
+474;film, have, manage, give, something, other, film, have, give, anguish
+475;dark, environment, degrade, neighborhood, nineteenth-century, be, backdrop, unfold, story, characterize, poverty, exploitation, misery, load, even, more, plot, strong, social, value
+476;violence, many, be, consider, defect, film, manage, transform, violence, unlimited, value
+477;dramatic, experience, frustration, life, identify, character
+478;just, start, fan, blade, be, instead, helicopter, now, wonderfully, epic, phrase, napalm, attack, village, sound, wagner, surf, bomb, soundtrack, still, terrible, meaning, drama, man, dramatic, existence, war
+479;director, actor, master, piece, cinema, most, freaky, scary, movie, ever
+480;gloomy, atmosphere, engage, story, worthy, legend, very, good, self-deprecating, johnny, deep, breathtaking, scenography
+481;get, touch, true, feeling, loneliness, despair
+482;stab, chicken, knife, start, wriggle, bleed
+483;here, be, really, hard, ruthless, get, respect, law, magnum
+484;here, do, not, decide, side, stay, remain, party
+485;also, like, be, very, thoughtful, understand, delusion, fear, very, well
+486;feel, there, american, penitentiary, 1930, canteen, hour, air, esteem, prisoner, be, grow, front, everything, achieve, overcome, year, detention
+487;end, however, message, be, pacifist, war, destroy, people, mind, emotion, show, crudest, true, aspect, soul, human, consciousness
+488;ring, be, real, bull, seem, want, kill, opponent
+489;be, film, make, reflect, meaning, life, variation, critique, society, recollection, late, period, exchange, cultural, social, identity
+490;music, almost, absent, indicate, attempt, successful, make, film, realistic, possible
+491;nice, movie, little, disgusting, really, cool
+492;course, film, be, shortage, violent, scene, film, be, spectacular, be, build, exemplary, way, film, leave, speechless
+493;perfectly, attack, use, funeral, music, usually, use, fall, american, military, poignant, scene, last, meeting, brother
+494;raw, violent, damn, true, film
+495;raw, violent, damn, true, film
+496;raw, violent, damn, true, film
+497;script, graham, greene, film, manage, convey, viewer, director, nocturnal, pessimism
+498;terribly, beautiful, profound, interpretation, slam, great, truth, film, want, show, spectator, face
+499;almost, demonic, presence, particular, interpretation, sublime, make, appreciable, film, lover, genre, not, use, tree, bleed, beautiful, company
+500;best, boxing, film, be, best, ever
+501;deepest, most, important, issue, be, opinion, criticism, way, life
+502;director, have, be, able, reproduce, cruelty, war, excellently
+503;dirty, black, white, give, impression, great, authenticity, representation, bronx, memorable, fighting, scene
+504;dramatic, story, be, impeccably, address, director, make, delicate, compelling, product
+505;film, manage, convey, viewer, nocturnal, pessimism, director, remove, happy, end, think, writer, choice, baroque, redundant, melodramatic, direction, embellish, truly, extraordinary, set, wide, angle, so, dear, reed, mercilessly, distort
+506;primitive, instinct, man, be, violence, revenge, malice, brutality, war, be, use, amplifier, open, man, show, terrible, tormented, violent, nature, order, survive, always, prevail, somebody, else
+507;setting, be, spectacular, protagonist, be, nothing, short, stellar, crudeness, propose, fact, unfortunately, really, happen, only, involve, viewer, music, be, incredible, solo, protagonist, ruin, german, officer, assist, shiver, see, film, cinema, general, applause, suddenly, arise, auditorium, well, deserve
+508;story, be, beautiful, main, character, be, special, fantastic, manage, change, life, save, slow, inexorable, human, decline
+509;story, be, interesting, interpretation, be, great, perhaps, already, have, little, animalistic, air
+510;film, seem, almost, warn, viewer, year, meager, future, media, manipulation
+511;masterpiece, be, biography, jack, extraordinary, aggressive, arrogant, boxer, marry, year, old
+512;very, violent, film, unique, atmosphere, very, good, girl, as, well, very, bad, t-bird, violence, tear, truly, film, leave, mark
+513;seem, have, finally, find, good, job, same, place, thing, start, change
+514;lucid, cold, ruthlessly, rational, film
+515;infinite, voiceless, scream, frozen, look, void, deaf, rasp, take, sleep
+516;beautiful, tense, dramatic, film, disturbing, implication
+517;beautiful, effective, scene, hammer
+518;great, film, great, performance, excellent, perfect, cast, interpreter, depraved, sketched, character
+519;harrowing, engaging, desperately, sad
+520;be, film, show, different, aspect, evil, social, life, persecution
+521;film, make, think, diamond, business, child, soldier
+522;make, angry, be, now, soul, be, erode, more, more, planet
+523;do, not, recognize, moment, victim
+524;remember, intense, minute, film, have, occasion, meet, cynical, fate, hinder
+525;image, slowness, go, hand, hand, human, illness
+526;film, be, poetry, be, strength, curse, really, know, mean
+527;be, write, good, movie, send, peaceful, bed
+528;film, see, person, mind, be, totally, deviate, passion
+529;pure, madness, normalcy, same, time, psychology, film
+530;film, make, live, moment, rare, tension
+531;be, film, human, cruelty
+532;be, engage, intense, addictive, short, do, not, make, turn
+533;be, engage, intense, addictive, short, do, not, make, turn
+534;be, profound, ingenious, film, compare, war, be, nothing, exact, synonym, violence, death, human, psyche
+535;fantastic, direction, valuable, actor, non-trivial, thriller, detective, storyline, correspondence, comic, cartoon, right, point, not, say, anything, scream, photography, be, film, get, inside, really, like
+536;able, make, cry, laugh, have, fun, reflect
+537;range, comedy, drama, thriller, never, take, grant, scene, first, few, bar, film
+538;action, fantasy, comedy, say, be, film, whole, family, relax
+539;action, fantasy, comedy, say, be, film, whole, family, relax
+540;not, be, miss, bubbly, full, original, idea, simple, plot, not, reason, trivial, obvious
+541;time, film, remain, nice, enjoyable, actor, great, shape, good, script, music, remain, lead, forever
+542;plot, do, not, shine, originality, film, be, very, very, cute, be, many, beautiful, line, witty, scene, actor, be, well, choose
+543;be, surely, most, fantastic, spectacular, film, have, ever, see, make, get, involve, impressive, way, cast, be, undoubtedly, norm, be, fantastic
+544;so, guy, let, make, clear, film, be, sly, time, enter, leave, do, nothing, laugh
+545;feeling, bring, play, writer, envy, anger, resentment, have, never, be, see, movie, create, pleasant, sense, disorientation, viewer
+546;finally, comedy, make, laugh, start, finish, bit, sentimentality, do, not, hurt, dress
+547;fun, not, overly, sweet, only, right, point
+548;more, year, shorton, year, movie, fairy-tale, character, bear, jmbarrie, pen, return, amaze, young, old, thanks, computer, graphic, make, pyrotechnic, flight, effect, chromatism, likely
+549;comedy, fun, contain, memorable, film, bring, excitement, whole, family
+550;animated, film, first, category, right, ingredient, fun, graphic, moral, duo, shrek-donkey, make, laugh, loud, recommend, young, old
+551;different, usual, fairy, tale, very, funny, also, thoughtful, masterpiece
+552;see, little, sister, then, really, passionate, hilarious, also, tender, recommend, everyone
+553;talk, father, unconditional, love, daughter, opinion, be, nothing, better, world
+554;be, beautiful, film, authentic, masterpiece, see, also, finish, comment, here, phrase, just, mention, already, explain, beautiful, fun, animated, film, be
+555;truly, film, attribute, make, mess, laugh, be, do, very, well, strength, opinion, be, novelty, be, desecrate, make, fun, whole, world, fairy, tale, thing, go, opposite, direction, expect
+556;funniest, movie, have, ever, see, literally, make, split, start, finish
+557;funniest, movie, have, ever, see, literally, make, split, start, finish
+558;just, as, something, give, be, wonderful, light, never, vulgar, decidedly, funny, film
+559;personally, believe, director, want, dwell, protagonist, willpower, so, strong, overcome, pain, death
+560;be, absolute, classic, cult, movie
+561;really, good, classic, movie, everyone, least, see, once, life, time
+562;suburbian, style, classic, film, noir, style, movie, have, feel, none, other, have, ever, see
+563;story, masterful, direction, make, shine, horror, classic
+564;classic, remain, sensational, psychological, thriller, year, later
+565;be, classic, funny, movie
+566;enjoy, watch, teens, get, high, drink
+567;enjoy, watch, teens, get, high, drink
+568;enjoy, comedy, then, movie, be
+569;enjoy, comedy, then, movie, be
+570;have, always, enjoy, movie, back, just, laugh, laugh
+571;have, always, enjoy, movie, back, just, laugh, laugh
+572;be, ready, certainly, enjoy, together
+573;case, have, action, romance, great, dramatic, scene, be, appeal, most, movie, enthusaist
+574;action, be, very, funny, act, superb
+575;be, excellent, study, dynamics, troubled, family
+576;be, excellent, study, dynamics, troubled, family
+577;do, see, part, quite, funny, even, be, spanish, speak
+578;actually, find, scene, be, pretty, funny, quick
+579;be, funny, awkward, touch
+580;be, person, deep, well, feeling, smart, person, love, movie
+581;be, person, deep, well, feeling, smart, person, love, movie
+582;use, vivid, imagery, beautifully, poetic, sequence, coax, film, feeling, earthy, longing
+583;use, vivid, imagery, beautifully, poetic, sequence, coax, film, feeling, earthy, longing
+584;visual, sensual, evocation, primitive, profound, human, feeling
+585;visual, sensual, evocation, primitive, profound, human, feeling
+586;svp, be, great, entertaining, film, watch, once, then, forget
+587;reason, go, film, be, see, something, least, little, entertaining, content
+588;fun, entertaining, then, now
+589;fun, entertaining, then, now
+590;be, entertaining, educate, beautiful, funny, love, story
+591;be, entertaining, educate, beautiful, funny, love, story
+592;remember, movie, be, kid
+593;remember, movie, be, kid
+594;recommend, movie, family, especially, kid, family, so, appreciate, have, have, have, today
+595;movie, have, be, favorite, be, kid
+596;kid, thanks, trivia, do, have, do, wonderful, movie, be
+597;sensitive, child, most, kid, be, able, deal
+598;sensitive, child, most, kid, be, able, deal
+599;be, shortest, film, be, only, little, more, hour, pack, so, much, heart
+600;be, shortest, film, be, only, little, more, hour, pack, so, much, heart
+601;seductive, ease, navigate, new, terrain, other, heart
+602;seductive, ease, navigate, new, terrain, other, heart
+603;touch, heart, make, feel, thing, have, not, feel, while
+604;touch, heart, make, feel, thing, have, not, feel, while
+605;touch, heart, make, feel, thing, have, not, feel, while
+606;movie, break, heart, such, sweet, delicate, way
+607;movie, break, heart, such, sweet, delicate, way
+608;film, hit, right, heart
+609;film, hit, right, heart
+610;movie, be, extremely, well, act
+611;linear, good, comic, acting
+612;linear, good, comic, acting
+613;classic, comic, moment, remain, hilarious, even, now
+614;classic, comic, moment, remain, hilarious, even, now
